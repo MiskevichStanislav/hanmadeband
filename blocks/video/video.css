@@ -1,0 +1,9 @@
+.video {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content:space-between;
+    position: relative;
+    width: 1024px;
+    height: 668px;
+}
