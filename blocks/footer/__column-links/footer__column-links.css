@@ -1,7 +1,5 @@
 .footer__column-links {
-    padding-left: 0;
-    margin-top: 20px;
-    margin-bottom: 16px;
+    margin: 0 auto;
     list-style: none;
-    background-position: right;
+    text-align: center;
 }
