@@ -17,4 +17,4 @@
   - Можно ставить и удалять лайки
   - Обновлять аватар
 ---
-## [Проект: Кавер группа HANDMADEBAND]()
+## [Проект: Кавер группа HANDMADEBAND](https://miskevichstanislav.github.io/hanmadeband/)
