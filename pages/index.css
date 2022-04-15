@@ -3,10 +3,24 @@
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__number/header__number.css);
+@import url(../blocks/header/__contact/header__contact.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
+
+@import url(../blocks/techniques/techniques.css);
+
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+
+@import url(../blocks/cards/cards.css);
+
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
@@ -45,6 +59,22 @@
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
+
+@import url(../blocks/prices/prices.css);
+@import url(../blocks/prices/__title/prices__title.css);
+@import url(../blocks/prices/__cards/_title-active/prices__cards_title-active.css);
+@import url(../blocks/prices/__card-hit/prices__card-hit.css);
+@import url(../blocks/prices/__card/prices__card.css);
+@import url(../blocks/prices/__card-active/prices__card-active.css);
+@import url(../blocks/prices/__card-block/prices__card-block.css);
+@import url(../blocks/prices/__title/prices__title.css);
+@import url(../blocks/prices/__cards-title/prices__cards-title.css);
+@import url(../blocks/prices/__cards-subtitle/prices__cards-subtitle.css);
+@import url(../blocks/prices/__current/prices__current.css);
+@import url(../blocks/prices/__button-booking/prices__button-booking.css);
+@import url(../blocks/prices/__money/prices__money.css);
+@import url(../blocks/prices/__card-list/prices__card-list.css);
+@import url(../blocks/prices/__card-range/prices__card-range.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__title/footer__title.css);

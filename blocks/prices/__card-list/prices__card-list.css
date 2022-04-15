@@ -1,0 +1,6 @@
+.prices__card-list {
+    list-style: none;
+    padding-left: 0;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+}

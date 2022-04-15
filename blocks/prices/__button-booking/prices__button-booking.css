@@ -1,0 +1,20 @@
+.prices__button-booking {
+    font-size: 16px;
+    width: 248px;
+    height: 24px;
+    cursor: pointer;
+    padding: 10px 0;
+    display: inline-block;
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 30px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.prices__button-booking:hover {
+    background-color: brown;
+	opacity: .9;
+    transition-duration: .4s;
+}

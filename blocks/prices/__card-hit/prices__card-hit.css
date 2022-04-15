@@ -1,0 +1,8 @@
+.prices__card-hit {
+    font-size: 16px;
+    text-transform: none;
+    border: 1px solid #c0392b;
+    padding: 10px;
+    width: 95px;
+    margin: auto;
+}

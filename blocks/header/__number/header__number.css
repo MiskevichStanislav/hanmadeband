@@ -1,0 +1,12 @@
+.header__number {
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 1.5px;
+}
+.header__number:hover {
+	opacity: .9;
+    transition-duration: .4s;
+}

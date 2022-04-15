@@ -1,5 +1,6 @@
 .lead__images {
-	display: block;
+	max-width: 1440px;
 	width: 100%;
+	display: block;
 	margin: 0 auto;
 }
