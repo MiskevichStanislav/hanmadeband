@@ -1,0 +1,4 @@
+.header__messager {
+    display: flex;
+    justify-content: flex-end;
+}
