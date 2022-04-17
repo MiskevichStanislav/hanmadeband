@@ -7,3 +7,12 @@ margin: 6px;
 	opacity: .4;
     transition-duration: .2s;
 }
+
+@media (max-width: 320px) {
+
+    .header__social-link {
+        width: 20px;
+        height: 20px;
+        margin: 3px;
+        }
+}

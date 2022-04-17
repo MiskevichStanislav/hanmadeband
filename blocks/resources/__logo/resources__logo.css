@@ -6,3 +6,10 @@
 .resources__logo:hover {
     opacity: 0.7;
 }
+
+@media (max-width: 320px) {
+	.resources__logo {
+        height: 30px;
+        align-items: center;
+	}
+}

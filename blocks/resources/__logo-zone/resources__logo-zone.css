@@ -6,3 +6,16 @@
     margin-right: auto;
     justify-content: space-between;
 }
+
+@media (max-width: 320px) {
+	.resources__logo-zone {
+        align-items: center;
+        width: auto;
+        margin-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        flex-direction: column;
+		grid-template-columns: 1fr;
+        grid-row-gap:10px;
+	}
+}

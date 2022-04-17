@@ -8,3 +8,10 @@ max-width: 1440px;
 margin: 0 auto;
 padding: auto;
 }
+
+
+@media (max-width: 320px) {
+	.prices {
+		padding-bottom: 30px;
+	}
+}
